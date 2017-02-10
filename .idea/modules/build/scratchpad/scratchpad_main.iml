@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":scratchpad:main" external.linked.project.path="$MODULE_DIR$/../../../../../libs/poi-3.16-beta1/build/scratchpad" external.root.project.path="$MODULE_DIR$/../../../../../libs/poi-3.16-beta1" external.system.id="GRADLE" external.system.module.group="poi" external.system.module.type="sourceSet" external.system.module.version="3.16-beta1" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../../../../../libs/poi-3.16-beta1/build/scratchpad/build/classes/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../libs/poi-3.16-beta1/src/resources/scratchpad">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../libs/poi-3.16-beta1/src/resources/scratchpad" type="java-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../libs/poi-3.16-beta1/src/scratchpad/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../libs/poi-3.16-beta1/src/scratchpad/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="main_main" />
+    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.10" level="project" />
+    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
+  </component>
+</module>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":scratchpad" external.linked.project.path="$MODULE_DIR$/../../../../../libs/poi-3.16-beta1/build/scratchpad" external.root.project.path="$MODULE_DIR$/../../../../../libs/poi-3.16-beta1" external.system.id="GRADLE" external.system.module.group="poi" external.system.module.version="3.16-beta1" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../libs/poi-3.16-beta1/build/scratchpad">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../libs/poi-3.16-beta1/build/scratchpad/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../libs/poi-3.16-beta1/build/scratchpad/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":main:main" external.linked.project.path="$MODULE_DIR$/../../../../../libs/poi-3.16-beta1/build/main" external.root.project.path="$MODULE_DIR$/../../../../../libs/poi-3.16-beta1" external.system.id="GRADLE" external.system.module.group="poi" external.system.module.type="sourceSet" external.system.module.version="3.16-beta1" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../../../../../libs/poi-3.16-beta1/build/main/build/classes/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../libs/poi-3.16-beta1/src/java">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../libs/poi-3.16-beta1/src/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../libs/poi-3.16-beta1/src/resources/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../libs/poi-3.16-beta1/src/resources/main" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.10" level="project" />
+    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
+  </component>
+</module>

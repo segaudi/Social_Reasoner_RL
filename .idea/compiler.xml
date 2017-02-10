@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="examples_main" target="1.6" />
+      <module name="examples_test" target="1.6" />
+      <module name="excelant_main" target="1.6" />
+      <module name="excelant_test" target="1.6" />
+      <module name="integrationtest_main" target="1.6" />
+      <module name="integrationtest_test" target="1.6" />
+      <module name="main_main" target="1.6" />
+      <module name="main_test" target="1.6" />
+      <module name="ooxml_main" target="1.6" />
+      <module name="ooxml_test" target="1.6" />
+      <module name="scratchpad_main" target="1.6" />
+      <module name="scratchpad_test" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
